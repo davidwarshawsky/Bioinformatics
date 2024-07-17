@@ -1,4 +1,3 @@
-```markdown
 # CS159-T: A History of Parallel Processing in Bioinformatics
 
 **David Warshawsky**  
@@ -43,4 +42,3 @@ Bioinformatics requires large-scale data collection and analysis to sequence gen
 5. Promega Corporation. 2019. What Is Capillary Electrophoresis? [Video].
 6. Thermo Fisher Scientific. (n.d.). Sequencing Reaction for Sanger Sequencing. Retrieved April 22, 2023.
 7. Wesley, L. CS 123A Bioinformatics I. San José State University. Fall 2022.
-```
